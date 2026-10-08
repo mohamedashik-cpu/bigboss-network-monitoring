@@ -7,7 +7,7 @@ This section provides reusable, generic email wording for common ISP and network
 ## Guides in This Section
 
 1. [ISP Link Down and Flapping Emails](01-ISP-Link-Down-and-Flapping-Emails.md) — starting templates for reporting a verified link-down or link-flapping issue to an ISP.
-2. [ISP Follow-up and Escalation Emails](02-ISP-Follow-up-and-Escalation-Emails.md) — templates for requesting updates, following up on an ETR, and escalating an unresolved issue.
+2. [ISP Follow-up and Escalation Emails](02-ISP-Follow-up-Escalation-and-Restoration.md) — templates for requesting updates, following up on an ETR, and escalating an unresolved issue.
 
 ## Choosing the Right Template
 
